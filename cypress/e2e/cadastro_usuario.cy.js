@@ -24,12 +24,6 @@ describe('Cadastro de usuário', () => {
     
     it('Campo Email inválido', () => {
         cadastro_page.preencherNome(randomName)
-        
-        cadastro_page.clicarCadastrar()
-        cadastro_page.validarMensagemErro('O campo e-mail deve ser prenchido corretamente')
-    });
-    it('Campo Email inválido', () => {
-        cadastro_page.preencherNome(randomName)
         cadastro_page.preencherEmail(randomName)
         cadastro_page.clicarCadastrar()
         cadastro_page.validarMensagemErro('O campo e-mail deve ser prenchido corretamente')
