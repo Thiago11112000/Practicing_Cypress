@@ -13,5 +13,5 @@ jobs:
         with:
           record: true
         env:
-          # pass GitHub token to detect new build vs re-run build
-          CYPRESS_RECORD_KEY: ${{CYPRESS_RECORD_KEY}}
+            CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+            
