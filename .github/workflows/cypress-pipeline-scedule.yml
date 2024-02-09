@@ -1,5 +1,7 @@
-name: Cypress tests
-on: push
+name: Run Basic Tests Sceduller
+on:
+  schedule:
+    - cron: '10 09,10,12 * * 1-5'
 jobs:
   cypress-run:
     name: Cypress run
