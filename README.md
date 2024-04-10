@@ -17,6 +17,8 @@ cd Practicing_Cypress
 ### mocha-awesome-report
 ```npm install mocha-awesome-report --save-dev```
 \```
+### Faker JS
+npm install @faker-js/faker --save-dev
 
 ## Uso
 
