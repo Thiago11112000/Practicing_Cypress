@@ -11,8 +11,11 @@ Para instalar e configurar este projeto, siga as instruções abaixo:
 \```bash
 git clone https://github.com/Thiago11112000/Practicing_Cypress.git
 cd Practicing_Cypress
-npm install cypress --save-dev
-npm install cypress mocha-awesome-report
+### Cypress
+```npm install cypress --save-dev```
+
+### mocha-awesome-report
+```npm install mocha-awesome-report --save-dev```
 \```
 
 ## Uso
