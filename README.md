@@ -51,7 +51,7 @@ O detentor dos direitos autorais é Thiago Martins da Silva.
 
 ## Contato
 
-Thiago Martins da Silva - Seu email - Seu twitter
+Thiago Martins da Silva - thiagomartins348593@gmail.com
 
 Link do Projeto: [https://github.com/Thiago11112000/Practicing_Cypress](https://github.com/Thiago11112000)
 link linkedin:  https://www.linkedin.com/in/thiago-martins-2996ba1a2/
